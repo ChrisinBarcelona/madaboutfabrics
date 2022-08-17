@@ -20,9 +20,14 @@
 
 2. The plus and minus products on mobile are not good, were confusing for users in tests. Must reflect desktop verison. 
 
-3. 'Similar in Colour' - Not 'Similar in Color' - Font Style is incorrect. Also Similar in Pattern, font styling is incorrect. 
+![m3](https://res.cloudinary.com/chriskelly-it/image/upload/v1660732878/similarincolor_zfi6r8.jpg)
 
-4. Request floating x on the filer menu.
+3. 'Similar in Colour' - Not 'Similar in Color' - Font Style is incorrect. Also Similar in Pattern, font styling is incorrect. 
 
 ![m4](https://res.cloudinary.com/chriskelly-it/image/upload/v1660732169/optimum_ihifrq.jpg)
 
+4. Request floating x on the filer menu. Ability to Exit should be visible at all times.  Request X background fill color: white, stroke: #f7f7f7. 
+
+![m5](https://res.cloudinary.com/chriskelly-it/image/upload/v1660732586/radius_epclli.jpg)
+
+5. Need Round Radius on product images. 
