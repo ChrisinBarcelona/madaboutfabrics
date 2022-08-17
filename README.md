@@ -8,6 +8,8 @@
 
 - [ ] Product Page: Fabric Care categories should not be in camel case on the custumer side
 
+![a1](https://res.cloudinary.com/ckellytv/image/upload/v1660670034/A1_mxfqh5.png)
+
 - [ ] Product Page: Available for store pick up icon should be colored #108B00
 
 - [ ] Product Page (Mobile): Radius on product image should have a curved radius 
