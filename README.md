@@ -18,9 +18,33 @@
 
 4. The bouncing slider is a bug. Please watch video as George helped indentify the source. It relates to 15px on left hand side. https://res.cloudinary.com/chriskelly-it/video/upload/v1660749055/Screen_Recording_2022-08-17_at_17.05.21_u07r3w.mov
 
+![d5](https://res.cloudinary.com/chriskelly-it/image/upload/v1660750209/Artboard_15_svepx3.jpg)
 
+5. Remove the doubled arrows in the address dropdown.
 
-5. 
+![d6](https://res.cloudinary.com/chriskelly-it/image/upload/v1660750209/Artboard_16_diwraq.jpg)
+
+6. Be Inspired, New Arrivals, Accessories needs formatted with consistency and in reference to the other parts. 
+
+![d7](https://res.cloudinary.com/chriskelly-it/image/upload/v1660750541/Screenshot_2022-08-17_at_17.35.11_xmdgbw.png)
+
+7. Format Contact Us Opening Hours. 
+
+![d8](https://res.cloudinary.com/chriskelly-it/image/upload/v1660751635/Artboard_18_dbxumx.jpg)
+
+8. Add all terms to User Dashboard. Missing terms. Please put Log Out at the bottom after all terms. 
+
+- Terms
+- Privacy Policy
+- Careers
+- About Us
+- Shipping 
+- Contact 
+- Sample Policy
+- Track Order
+- Returns Policy
+- List of Upholsterers
+- List of Curtain Makers
 
 # Mobile Top Check List
 
@@ -46,7 +70,7 @@
 
 ![m6](https://res.cloudinary.com/chriskelly-it/image/upload/v1660733509/order-dashbaord_f5rp5q.jpg)
 
-6. Once signed in, 'Orders', in userdashboard, crashes like a speeding Volkswagon without brakes.
+6. Once signed in, 'Orders', in userdashboard, crashes like a volkswagon with no brakes.
 
 ![m7](https://res.cloudinary.com/chriskelly-it/image/upload/v1660738034/toowide_p1kwid.jpg)
 
@@ -64,7 +88,7 @@
 
 ![m10](https://res.cloudinary.com/chriskelly-it/image/upload/v1660743554/daysmins_noofec.jpg)
 
-10. The time needs reformatted but I know you are on this one, just thought I would expidiate formatting layout
+10. The time needs reformatted.
 
 ![m11](https://res.cloudinary.com/chriskelly-it/image/upload/v1660745117/processing_aufszy.jpg)
 
