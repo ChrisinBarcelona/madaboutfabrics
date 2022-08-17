@@ -50,5 +50,6 @@
 
 8. The hamburger menu is too far to the left and this lacks equalibrium with the shopping bag. the logo is simply not centred.  
 
+![m9](https://res.cloudinary.com/chriskelly-it/image/upload/v1660739686/IMG_0330_ohxrir.jpg)
 
-
+9. The Range name weight is too thin. Please make Light as oppose to ultralight. 
