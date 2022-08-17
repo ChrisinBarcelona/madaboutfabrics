@@ -14,9 +14,13 @@
 
 3. Please switch the sticky navbar - so that the main nav bar sticks bith on desktop and mobile please Toni, thank you so much.  
 
-![d4](https://res.cloudinary.com/chriskelly-it/video/upload/v1660748172/Screen_Recording_2022-08-17_at_16.55.30_foyo5a.mov)
+![d4](https://res.cloudinary.com/chriskelly-it/image/upload/v1660750209/Artboard_17_gqgg5t.jpg)
 
-4. Something is wrong here! The menu keeps bouncing.
+4. The bouncing slider is a bug. Please watch video as George helped indentify the source. It relates to 15px on left hand side. https://res.cloudinary.com/chriskelly-it/video/upload/v1660749055/Screen_Recording_2022-08-17_at_17.05.21_u07r3w.mov
+
+
+
+5. 
 
 # Mobile Top Check List
 
