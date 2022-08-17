@@ -26,7 +26,7 @@
 
 ![m3](https://res.cloudinary.com/chriskelly-it/image/upload/v1660732878/similarincolor_zfi6r8.jpg)
 
-3. 'Similar in Colour' - Not 'Similar in Color' - Font Style is incorrect. Also Similar in Pattern, font styling is incorrect. Same in Desktop Verison.
+3. 'Similar in Colour' - Not 'Similar in Color' - Font Style is incorrect. Correct Styling is Bold, UPPERCASE Montserrat. Also Similar in Pattern, font styling is incorrect. Same problems need redressed in Desktop Verison.
 
 ![m4](https://res.cloudinary.com/chriskelly-it/image/upload/v1660732169/optimum_ihifrq.jpg)
 
@@ -38,8 +38,8 @@
 
 ![m6](https://res.cloudinary.com/chriskelly-it/image/upload/v1660733509/order-dashbaord_f5rp5q.jpg)
 
-6. Once signed in, 'Orders', in userdashboard, crashes harder that a speeding Volkswagon without brakes.
+6. Once signed in, 'Orders', in userdashboard, crashes like a speeding Volkswagon without brakes.
 
-![m7]()
+![m7](https://res.cloudinary.com/chriskelly-it/image/upload/v1660738034/toowide_p1kwid.jpg)
 
-7. 
+7. The letter spacing is too wide in the examples above. The letters need to be set at -20 to reflect the same spacing in Desktop
