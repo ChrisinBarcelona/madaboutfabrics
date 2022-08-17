@@ -14,6 +14,10 @@
 
 3. Please switch the sticky navbar - so that the main nav bar sticks bith on desktop and mobile please Toni, thank you so much.  
 
+![d4](https://res.cloudinary.com/chriskelly-it/video/upload/v1660748172/Screen_Recording_2022-08-17_at_16.55.30_foyo5a.mov)
+
+4. Something is wrong here! The menu keeps bouncing.
+
 # Mobile Top Check List
 
 ![m1](https://res.cloudinary.com/chriskelly-it/image/upload/v1660727247/robotolight_kr8uvb.jpg)
