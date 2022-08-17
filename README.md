@@ -10,6 +10,10 @@
 
 2. Product Page: Fabric Care categories should not be in camel case on the custumer side
 
+![d3](https://res.cloudinary.com/chriskelly-it/image/upload/v1660733693/Screenshot_2022-08-17_at_12.54.16_vmhg3z.png)
+
+3. Please switch the sticky navbar - so that the main nav bar sticks bith on desktop and mobile please Toni, thank you so much.  
+
 # Mobile Top Check List
 
 ![m1](https://res.cloudinary.com/chriskelly-it/image/upload/v1660727247/robotolight_kr8uvb.jpg)
@@ -22,7 +26,7 @@
 
 ![m3](https://res.cloudinary.com/chriskelly-it/image/upload/v1660732878/similarincolor_zfi6r8.jpg)
 
-3. 'Similar in Colour' - Not 'Similar in Color' - Font Style is incorrect. Also Similar in Pattern, font styling is incorrect. 
+3. 'Similar in Colour' - Not 'Similar in Color' - Font Style is incorrect. Also Similar in Pattern, font styling is incorrect. Same in Desktop Verison.
 
 ![m4](https://res.cloudinary.com/chriskelly-it/image/upload/v1660732169/optimum_ihifrq.jpg)
 
@@ -32,7 +36,7 @@
 
 5. Need Round Radius on product images. 
 
-![m6](https://res.cloudinary.com/chriskelly-it/image/upload/v1660733048/IMG_0317_idsiix.png)
+![m6](https://res.cloudinary.com/chriskelly-it/image/upload/v1660733509/order-dashbaord_f5rp5q.jpg)
 
 6. Once signed in, 'Orders', in userdashboard, crashes harder that a speeding Volkswagon without brakes.
 
