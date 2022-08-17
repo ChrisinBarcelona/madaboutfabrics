@@ -10,7 +10,7 @@
 
 2. Product Page: Fabric Care categories should not be in camel case on the custumer side
 
-![d3](https://res.cloudinary.com/chriskelly-it/image/upload/v1660733693/Screenshot_2022-08-17_at_12.54.16_vmhg3z.png)
+![d3](https://res.cloudinary.com/chriskelly-it/image/upload/v1660733797/Screenshot_2022-08-17_at_12.56.24_vvtudh.png)
 
 3. Please switch the sticky navbar - so that the main nav bar sticks bith on desktop and mobile please Toni, thank you so much.  
 
