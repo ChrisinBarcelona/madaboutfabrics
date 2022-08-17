@@ -22,7 +22,7 @@
 
 5. Remove the doubled arrows in the address dropdown.
 
-![d6](https://res.cloudinary.com/chriskelly-it/image/upload/v1660750541/Screenshot_2022-08-17_at_17.35.11_xmdgbw.png)
+![d6](https://res.cloudinary.com/chriskelly-it/image/upload/v1660751635/Artboard_19_kypm5l.jpg)
 
 6. Format Contact Us Opening Hours. 
 
