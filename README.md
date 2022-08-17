@@ -110,6 +110,14 @@
 
 16. Be Inspired, New Arrivals, Accessories needs formatted with consistency and in reference to the other parts. 
 
+![m17](https://res.cloudinary.com/chriskelly-it/image/upload/v1660753418/IMG_0336_xl91jo.png)
+
+17. On mobile, click bag, drop down appears, click edit order, drop down doesn't vanish automatically  
+
+![m18]()
+
+18. Graduated Checkout is very disorientting for user. It jumps very aggressively from Shipping to Billing to Payment. It should smooth scroll down. In an orderly fashion. When a user presses continue, that should activate the next container but that container should gently make it's way to the top. 
+
 
 
 
