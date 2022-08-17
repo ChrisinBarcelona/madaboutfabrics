@@ -20,3 +20,9 @@
 
 2. The plus and minus products on mobile are not good, were confusing for users in tests. Must reflect desktop verison. 
 
+3. 'Similar in Colour' - Not 'Similar in Color' - Font Style is incorrect. Also Similar in Pattern, font styling is incorrect. 
+
+4. Request floating x on the filer menu.
+
+![m4](https://res.cloudinary.com/chriskelly-it/image/upload/v1660732169/optimum_ihifrq.jpg)
+
