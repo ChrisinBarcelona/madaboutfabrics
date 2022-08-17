@@ -31,3 +31,11 @@
 ![m5](https://res.cloudinary.com/chriskelly-it/image/upload/v1660732586/radius_epclli.jpg)
 
 5. Need Round Radius on product images. 
+
+![m6](https://res.cloudinary.com/chriskelly-it/image/upload/v1660733048/IMG_0317_idsiix.png)
+
+6. Once signed in, 'Orders', in userdashboard, crashes harder that a speeding Volkswagon without brakes.
+
+![m7]()
+
+7. 
