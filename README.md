@@ -43,3 +43,12 @@
 ![m7](https://res.cloudinary.com/chriskelly-it/image/upload/v1660738034/toowide_p1kwid.jpg)
 
 7. The letter spacing is too wide in the examples above. The letters need to be set at -20 to reflect the same spacing in Desktop
+
+![m8](https://res.cloudinary.com/chriskelly-it/image/upload/v1660739455/Artboard_7_tqqng3.jpg)
+
+![m8.2](https://res.cloudinary.com/chriskelly-it/image/upload/v1660739455/Artboard_8_bolelq.jpg)
+
+8. The hamburger menu is too far to the left and this lacks equalibrium with the shopping bag. the logo is simply not centred.  
+
+
+
