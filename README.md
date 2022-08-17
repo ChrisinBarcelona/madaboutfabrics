@@ -10,10 +10,6 @@
 
 ![a2](https://res.cloudinary.com/ckellytv/image/upload/v1660726196/Screenshot_2022-08-17_at_10.49.37_lbuhvj.png)
 
-- [ ] Product Page: Available for store pick up icon should be colored #108B00
-
-- [ ] Product Page (Mobile): Radius on product image should have a curved radius 
-
 # Mobile Top Check List
 
 
