@@ -53,3 +53,7 @@
 ![m9](https://res.cloudinary.com/chriskelly-it/image/upload/v1660739686/IMG_0330_ohxrir.jpg)
 
 9. The Range name weight is too thin. Please make Light as oppose to ultralight. 
+
+![m10](https://res.cloudinary.com/chriskelly-it/image/upload/v1660743554/daysmins_noofec.jpg)
+
+10. The time needs reformatted but I know you are on this one, just thought I would expidiate formatting layout
