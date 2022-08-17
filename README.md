@@ -8,7 +8,7 @@
 
 - [ ] Product Page: Fabric Care categories should not be in camel case on the custumer side
 
-![a1](https://res.cloudinary.com/ckellytv/image/upload/v1660670034/A1_mxfqh5.png)
+![a2](https://res.cloudinary.com/ckellytv/image/upload/v1660726196/Screenshot_2022-08-17_at_10.49.37_lbuhvj.png)
 
 - [ ] Product Page: Available for store pick up icon should be colored #108B00
 
