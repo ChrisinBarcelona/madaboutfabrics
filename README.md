@@ -60,4 +60,8 @@
 
 ![m11](https://res.cloudinary.com/chriskelly-it/image/upload/v1660745117/processing_aufszy.jpg)
 
-11. This needs to be cleaned up. Please see https://codepen.io/marcbacon/pen/abYjBbo for reference. 
+11. Please take a look and reformat. Please see https://codepen.io/marcbacon/pen/abYjBbo for reference. Montserrat Regular and Bold, Uppercase fonts are used respectively.
+
+![m12](https://res.cloudinary.com/chriskelly-it/image/upload/v1660745691/blacknotblue_xx9cbe.jpg)
+
+12. Please format link to black on the order samples button inside mobile sidebar menu. 
