@@ -52,7 +52,7 @@
 
 ![m9](https://res.cloudinary.com/chriskelly-it/image/upload/v1660739686/IMG_0330_ohxrir.jpg)
 
-9. The Range name weight is too thin. Please make Light as oppose to ultralight. 
+9. On mobile version, the range name weight is too thin. Please make Light as oppose to ultralight. 
 
 ![m10](https://res.cloudinary.com/chriskelly-it/image/upload/v1660743554/daysmins_noofec.jpg)
 
@@ -62,6 +62,26 @@
 
 11. Please take a look and reformat. Please see https://codepen.io/marcbacon/pen/abYjBbo for reference. Montserrat Regular and Bold, Uppercase fonts are used respectively.
 
-![m12](https://res.cloudinary.com/chriskelly-it/image/upload/v1660745691/blacknotblue_xx9cbe.jpg)
+![m12](https://res.cloudinary.com/chriskelly-it/image/upload/v1660747725/Artboard_11_yfyyil.jpg)
 
-12. Please format link to black on the order samples button inside mobile sidebar menu. 
+12. Please format link to black on the order samples button inside mobile sidebar menu and the sale page.
+
+![m13](https://res.cloudinary.com/chriskelly-it/image/upload/v1660747725/Artboard_13_j9f92c.jpg)
+
+13. Please centre the 'x' as shown on the filter chip.
+
+![m14](https://res.cloudinary.com/chriskelly-it/image/upload/v1660747725/Artboard_14_p39suj.jpg)
+
+14. Format buttons on mobile shopping drop down so they don't look really really small!! Cheers T!
+
+![m15](https://res.cloudinary.com/chriskelly-it/image/upload/v1660747725/Artboard_12_jpleb9.jpg)
+
+15. Images not populating on Mobile home on upholstery, curtains, craft slider.
+
+![m16]()
+
+16.
+
+
+
+
