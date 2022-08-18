@@ -138,9 +138,9 @@
 
 17. On mobile, click bag, drop down appears, click edit order, drop down doesn't vanish automatically  
 
-![m18]()
+![m18](https://res.cloudinary.com/chriskelly-it/image/upload/v1660839276/Screenshot_2022-08-18_at_18.13.58_yfy2uu.png)
 
-18. Graduated Checkout is very disorientting for user. It jumps very aggressively from 1. Shipping to 2. Billing to 3. Payment. Same in Sample. It should smooth scroll down in an orderly fashion. I think this is all very complex. I think it is best if, when checkout is selected, checkout page opens at top. User will just have to manually scroll do to 1. shipping, and when pressed continue,  2. Billing opens. A bit like an accordian and so on until submission. It's just all very messy. What do you think?  
+18. Graduated Checkout is very disorientting for user. It jumps very aggressively from 1. Shipping to 2. Billing to 3. Payment. Same in Sample. It should smooth scroll down in an orderly fashion. I think this is all very complex. I think it is best if, when checkout is selected, checkout page opens at top. User will just have to manually scroll do to 1. shipping, and when pressed continue,  2. Billing opens. A bit like an accordian and so on until submission. It's just all very messy. Check this video out for an idea. https://res.cloudinary.com/chriskelly-it/video/upload/v1660838694/Comp_1_hof0ls.mp4 - What you think?
 
 ![m20](https://res.cloudinary.com/chriskelly-it/image/upload/v1660835921/SAMPLEMISSING_veklwb.jpg)
 
