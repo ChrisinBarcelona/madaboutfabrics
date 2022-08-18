@@ -42,6 +42,30 @@
 - List of Upholsterers
 - List of Curtain Makers
 
+![d8](https://res.cloudinary.com/chriskelly-it/image/upload/v1660822658/Screenshot_2022-08-18_at_13.37.25_kr5p8l.png)
+
+8. Slider is not triggering on, Be Inspired, New Arrivals, Accessories. Please see video. (https://res.cloudinary.com/chriskelly-it/video/upload/v1660822607/Screen_Recording_2022-08-18_at_13.36.20_utszii.mov)
+
+![d9](https://res.cloudinary.com/chriskelly-it/image/upload/v1660821811/Screenshot_2022-08-18_at_13.23.14_qbgsgc.png)
+
+9. Copy button doesn't work on desktop now. 
+
+![d10](https://res.cloudinary.com/chriskelly-it/image/upload/v1660821754/Screenshot_2022-08-18_at_13.22.07_zasn3b.png)
+
+10. Pagination skips page 4. Really buggy. Needs changed. Please See Reference Video https://res.cloudinary.com/chriskelly-it/video/upload/v1660821652/jumpypagination_ksy3t4.mov
+
+![d11](https://res.cloudinary.com/chriskelly-it/image/upload/v1660821590/missing_images_aeslfc.png)
+
+11. If product images are not there, the place holder remains. Please change. 
+
+![D12](https://res.cloudinary.com/chriskelly-it/image/upload/v1660823445/usediv_ml0hpk.jpg)
+
+12. Images are not equal on desktop. Break points are disorientating. Please watch video for better understanding. https://res.cloudinary.com/chriskelly-it/video/upload/v1660823366/Screen_Recording_2022-08-18_at_13.48.53_kagtci.mov 
+
+![m19](https://res.cloudinary.com/chriskelly-it/image/upload/v1660835434/homepage_chekcout_l8vcmz.jpg)
+
+19. Mad About Fabrics Logo should match Navbar in checkout to create consistency. Please see https://res.cloudinary.com/chriskelly-it/video/upload/v1660830097/Screen_Recording_2022-08-18_at_15.41.02_yfcmdf.mov
+
 # Mobile Top Check List
 
 ![m1](https://res.cloudinary.com/chriskelly-it/image/upload/v1660727247/robotolight_kr8uvb.jpg)
@@ -88,7 +112,7 @@
 
 ![m11](https://res.cloudinary.com/chriskelly-it/image/upload/v1660745117/processing_aufszy.jpg)
 
-11. Please take a look and reformat. Please see https://codepen.io/marcbacon/pen/abYjBbo for reference. Montserrat Regular and Bold, Uppercase fonts are used respectively.
+11. Please take a look and reformat. Please see https://codepen.io/marcbacon/pen/abYjBbo for reference. Montserrat Regular and Bold, Uppercase fonts are used respectively. please replace loading circle with black bouncing dots. 
 
 ![m12](https://res.cloudinary.com/chriskelly-it/image/upload/v1660747725/Artboard_11_yfyyil.jpg)
 
@@ -116,7 +140,16 @@
 
 ![m18]()
 
-18. Graduated Checkout is very disorientting for user. It jumps very aggressively from Shipping to Billing to Payment. It should smooth scroll down. In an orderly fashion. When a user presses continue, that should activate the next container but that container should gently make it's way to the top. 
+18. Graduated Checkout is very disorientting for user. It jumps very aggressively from 1. Shipping to 2. Billing to 3. Payment. Same in Sample. It should smooth scroll down in an orderly fashion. I think this is all very complex. I think it is best if, when checkout is selected, checkout page opens at top. User will just have to manually scroll do to 1. shipping, and when pressed continue,  2. Billing opens. A bit like an accordian and so on until submission. It's just all very messy. What do you think?  
+
+![m20]()
+
+20. Missing Sample Button on mobile. 
+
+
+
+
+
 
 
 
