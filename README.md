@@ -110,7 +110,7 @@
 
 10. The time needs reformatted.
 
-![m11](https://res.cloudinary.com/chriskelly-it/image/upload/v1660745117/processing_aufszy.jpg)
+![m11](https://res.cloudinary.com/chriskelly-it/image/upload/v1660836239/bounce_pcgjld.jpg)
 
 11. Please take a look and reformat. Please see https://codepen.io/marcbacon/pen/abYjBbo for reference. Montserrat Regular and Bold, Uppercase fonts are used respectively. please replace loading circle with black bouncing dots. 
 
