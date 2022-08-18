@@ -146,6 +146,15 @@
 
 20. Missing Sample Button on mobile. 
 
+# Previously Understood
+
+1. Finish Mini Slider.
+2. Product Sliders on home page that do not just show one more product more
+3. Connect Stripe Account 
+4. Icons on foot in mobile to be formated correctly.
+5. Available for store pickup to be in green.
+
+ 
 
 
 
