@@ -154,6 +154,13 @@
 4. Icons on foot in mobile to be formated correctly.
 5. Available for store pickup to be in green.
 
+1. Replace circles with bouncing dots
+2. Position X in menu in reference to hamburger
+3. Full screen buttons in dashboard 
+4. Fix 25/50/75 in mobile: ranges
+
+
+
  
 
 
