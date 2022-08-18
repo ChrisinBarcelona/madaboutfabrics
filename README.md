@@ -142,7 +142,7 @@
 
 18. Graduated Checkout is very disorientting for user. It jumps very aggressively from 1. Shipping to 2. Billing to 3. Payment. Same in Sample. It should smooth scroll down in an orderly fashion. I think this is all very complex. I think it is best if, when checkout is selected, checkout page opens at top. User will just have to manually scroll do to 1. shipping, and when pressed continue,  2. Billing opens. A bit like an accordian and so on until submission. It's just all very messy. What do you think?  
 
-![m20]()
+![m20](https://res.cloudinary.com/chriskelly-it/image/upload/v1660835921/SAMPLEMISSING_veklwb.jpg)
 
 20. Missing Sample Button on mobile. 
 
