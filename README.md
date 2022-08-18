@@ -52,7 +52,7 @@
 
 ![d10](https://res.cloudinary.com/chriskelly-it/image/upload/v1660821754/Screenshot_2022-08-18_at_13.22.07_zasn3b.png)
 
-10. Pagination skips page 4. Really buggy. Needs changed. Please See Reference Video https://res.cloudinary.com/chriskelly-it/video/upload/v1660821652/jumpypagination_ksy3t4.mov
+10. Pagination skips. People will naturally just miss pages given this package. Please See Reference Video https://res.cloudinary.com/chriskelly-it/video/upload/v1660821652/jumpypagination_ksy3t4.mov
 
 ![d11](https://res.cloudinary.com/chriskelly-it/image/upload/v1660821590/missing_images_aeslfc.png)
 
